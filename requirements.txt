@@ -1,0 +1,5 @@
+PyPDF2 
+python-dotenv 
+pinecone  
+google-generativeai 
+sentence-transformers
